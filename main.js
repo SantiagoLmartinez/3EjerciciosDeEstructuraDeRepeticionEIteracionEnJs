@@ -71,8 +71,6 @@ for (i = 0; i < cartas.length; i++) {
          else if(cartas[i] === "d" && x % 3 === 0){
             console.log(x+ cartas[i] + "iamantes :Multiplo de 3"); 
         }
-        /*if(cartas[i] === "r" && x % 3 === 0){
-            console.log(x+"es de rombos,Multiplo de 3");*/
     }
 
 }
